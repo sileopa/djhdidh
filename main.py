@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 
-app=Client(session_name='myapp', api_id=14027438, api_hash='9c9527c9c3e59853818ba0b0e2486737')
+app=Client(session_name='myapp', api_id=, api_hash='')
 
 List=['salam', 'hello']
 
